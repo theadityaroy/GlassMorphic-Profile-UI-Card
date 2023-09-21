@@ -9,7 +9,6 @@
     background-image: url(Assets/gradBack.jpg);
     background-position: center;
     background-size: cover;
-    margin-inline: 1.5rem;
     display: grid;
     place-items: center;
 }
